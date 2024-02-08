@@ -307,7 +307,7 @@ function handleMouseUp(evt) {
 <polygon fill="#f8f8f8" stroke="black" points="450,-151 16,-151 16,-16 450,-16 450,-151"/>
 <text text-anchor="start" x="24" y="-134.2" font-family="Times,serif" font-size="16.00">File: wordcount03</text>
 <text text-anchor="start" x="24" y="-116.2" font-family="Times,serif" font-size="16.00">Type: cpu</text>
-<text text-anchor="start" x="24" y="-98.2" font-family="Times,serif" font-size="16.00">Time: Feb 8, 2024 at 10:44am (UTC)</text>
+<text text-anchor="start" x="24" y="-98.2" font-family="Times,serif" font-size="16.00">Time: Feb 8, 2024 at 10:56am (UTC)</text>
 <text text-anchor="start" x="24" y="-80.2" font-family="Times,serif" font-size="16.00">Duration: 200.54ms, Total samples = 0 </text>
 <text text-anchor="start" x="24" y="-62.2" font-family="Times,serif" font-size="16.00">Showing nodes accounting for 0, 0% of 0 total</text>
 <text text-anchor="start" x="24" y="-25.2" font-family="Times,serif" font-size="16.00">See https://git.io/JfYMW for how to read the graph</text>
